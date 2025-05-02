@@ -61,9 +61,11 @@ Businesses often struggle with making data-driven decisions due to unstructured 
 •	Providing recommendations based on data-backed insights.
 
 ### Key Datasets and Methodologies
-•	Datasets Used: The dataset is a Grocery Store dataset which includes transaction records, customer details, product-related data, revenue, region, cities, and salespersons, etc.
+#### Datasets Used 
+The dataset is a Grocery Store dataset which includes transaction records, customer details, product-related data, revenue, region, cities, and salespersons, etc.
 
-•	Methods Used: The analysis utilizes Microsoft Excel tools, such as:
+#### Methods Used
+The analysis utilizes Microsoft Excel tools, such as:
 
   * Pivot Tables for data summarization.
 

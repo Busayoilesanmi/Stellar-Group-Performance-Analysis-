@@ -315,7 +315,8 @@ By leveraging these insights, companies can increase revenue, reduce operational
 
 ## Data Visualizations & Charts
 
-![Dashboard1](https://github.com/user-attachments/assets/9e8502ab-c2d0-41f0-ba50-d58c2d790b5a)
+![Dashboard0](https://github.com/user-attachments/assets/ce4635ef-7bf9-4093-82ba-2dac76a4fd7e)
+
 
 
 

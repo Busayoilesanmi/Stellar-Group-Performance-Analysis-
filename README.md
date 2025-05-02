@@ -1,14 +1,23 @@
 # Stellar Group Performance Analysis 
 
 [Introduction](#Introduction)
+
 [Story of Data](#StoryofData)
+
 [Data Splitting and Preprocessing](#DataSplittingandPreprocessing)
+
 [Pre-Analysis](#Pre-Analysi)
+
 [In-Analysis](#In-Analysis)
+
 [Post-Analysis and Insights](#Post-AnalysisandInsights)
+
 [Data Visualizations & Charts](#DataVisualizations&Charts)
+
 [Recommendations and Observations](#RecommendationsandObservations)
+
 [Conclusion](#Conclusion)
+
 [References & Appendices](#References&Appendices)
 
 

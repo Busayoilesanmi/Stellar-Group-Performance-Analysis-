@@ -74,73 +74,129 @@ Businesses often struggle with making data-driven decisions due to unstructured 
 ### Data Source 
 The dataset originates from internal company sales records, capturing transactions, product details, customer demographics, and revenue figures.
 Data Collection Process: Sales data was recorded from transactional databases, capturing order details, customer information, region, sale persons, shipping information, and revenue figures for analysis.
-Data Structure
+
+### Data Structure
+
 •	Each row represents an individual sales transaction.
+
 •	Columns include order ID, product name, revenue values, shipper name, ship city, and customer demographic details etc.
-Important Features and Their Significance
+
+### Important Features and Their Significance
+
 •	Revenue: The core metric used to evaluate sales performance and profitability.
+
 •	Product Names: Helps identify top-performing products and trends in customer preferences.
+
 •	Revenue Values: Essential for assessing financial impact and contribution per product or region.
+
 •	Shipper Name & Ship City: Provides insights into logistical performance and regional sales distribution.
+
 •	Customer Demographics: Useful for segmenting customers based on purchasing behavior and targeting marketing efforts accordingly.
-Data Limitations or Biases:
+
+### Data Limitations or Biases:
+
 •	Some missing records for ship city and shipper names.
+
 •	Lack of complete demographic data may limit segmentation analysis. Some missing records for ship city and shipper names.
+
 •	Data may not capture recent market trends, as it is based on historical transactions.
+
 •	Potential data entry errors affecting accuracy.
+
 •	Limited product categories may restrict broader insights into the overall market.
+
 •	Lack of detailed customer behavior metrics, such as purchase frequency and customer lifetime value.
-4.	Data Splitting and Preprocessing
-Data Cleaning
+
+## Data Splitting and Preprocessing
+
+### Data Cleaning
+
 •	Removed duplicates and ensured consistent formatting.
+
 •	Addressed missing values where possible.
+
 •	Removed unnecessary spaces between words using excel function “Trim”
-Handling Missing Values
+
+### Handling Missing Values
 Some of the column had missing valued, which can be handled by using;
+
 •	Find & Replace (Ctrl + H): Replace blanks with zero or a placeholder. 
+
 •	Go To Special (F5 → Special → Blanks): Select all blank cells and enter a common replacement value 
-Data Transformations
+
+### Data Transformations
+
 •	Aggregated sales data by month, region, category, sale-person, city, ship-city, and customer
-Data Splitting
-We Separated the data set into independent and dependent values 
+
+### Data Splitting
+
+We Separated the dataset into independent and dependent values 
+
 Independent Values
+
 •	Customer Name
+
 •	Sales person
+
 •	Country/Region
+
 •	Ship Name
+
 •	Region
+
 •	Ship Country
+
 •	Payment Type
+
 •	Product Name 
+
 •	Category, etc.
+
  Dependent Values
+ 
 •	Quantity
+
 •	Revenue
+
 •	Shipping Fee
+
 •	Unit Price 
-Industry Context
+
+### Industry Context
+
 The dataset belongs to the retail/e-commerce industry, where businesses sell products directly to consumers through physical stores or online platforms. This industry heavily relies on data analysis for sales forecasting, inventory management, and customer behavior insights.
-Relevance to the Analysis
+
+### Relevance to the Analysis
+
 •	Sales Forecasting: Understanding seasonal trends helps predict demand and optimize stock levels.
+
 •	Inventory Management: Identifying top-performing products ensures efficient supply chain operations.
+
 •	Customer Segmentation: Analyzing demographics allows for targeted marketing strategies.
+
 •	Regional Performance Evaluation: Comparing revenue across different locations supports strategic expansion and market penetration efforts.
- Stakeholders: Senior management, sales teams, and marketing departments.
-Value to the Industry
+
+### Stakeholders
+Senior management, sales teams, and marketing departments.
+
+### Value to the Industry
 This sales analysis provides critical insights that drive strategic decision-making in the retail/e-commerce industry, leading to improved business efficiency and profitability. The key areas of impact include:
+
 1.	Pricing Optimization:
+
 •	By analyzing revenue trends and regional sales performance, businesses can identify optimal pricing strategies to maximize profitability.
 •	Seasonal sales data helps in adjusting prices dynamically to match demand fluctuations.
-2.	Identification of Best-Selling Products:
+
+3.	Identification of Best-Selling Products:
 •	The analysis pinpoints top-selling products, allowing businesses to focus on high-performing categories and allocate resources effectively.
 •	Understanding which products generate the most revenue aids in demand forecasting and inventory management.
-3.	Marketing Strategy Refinement:
+4.	Marketing Strategy Refinement:
 •	Customer demographic insights help in segmenting the market and tailoring promotional campaigns.
 •	By identifying the most profitable regions, businesses can optimize advertising spend and enhance customer engagement.
-4.	Supply Chain and Logistics Optimization:
+5.	Supply Chain and Logistics Optimization:
 •	Evaluating sales by region and shipper performance helps streamline logistics, reducing costs and improving delivery efficiency.
 •	Insights into shipping cities and revenue distribution assist in selecting better distribution centers and improving customer satisfaction.
-5.	Strategic Business Expansion:
+6.	Strategic Business Expansion:
 •	Regions with consistent high sales can be targeted for new store openings or increased marketing investments.
 •	Understanding underperforming areas allows businesses to explore new strategies to improve penetration and sales.
 By leveraging these insights, companies can increase revenue, reduce operational inefficiencies, and improve customer satisfaction, ultimately gaining a competitive advantage in the industry.

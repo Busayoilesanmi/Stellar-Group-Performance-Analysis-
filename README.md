@@ -14,7 +14,7 @@
 
 [Post-Analysis and Insights](#Post-AnalysisandInsights)
 
-[Data Visualizations & Charts](#DataVisualizations&Charts)![Dashboard1](https://github.com/user-attachments/assets/a3d3ac87-3df2-4817-8c4c-63a4b2d02474)
+[Data Visualizations & Charts](#DataVisualizations&Charts)
 
 
 [Recommendations and Observations](#RecommendationsandObservations)

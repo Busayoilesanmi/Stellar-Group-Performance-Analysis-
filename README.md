@@ -312,6 +312,9 @@ By leveraging these insights, companies can increase revenue, reduce operational
 
 •	Some ship cities have higher transaction values, possibly indicating bulk purchases from corporate clients or regions with high disposable income.
 
+## Data Visualizations & Charts
+
+
 
 
 

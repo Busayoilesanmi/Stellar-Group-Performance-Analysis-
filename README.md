@@ -444,6 +444,7 @@ Transforming data helps in extracting useful insights.
 •	Created Pivot Tables for quick summarization.
 
 •	Pivot tables were used to: 
+
 •	Aggregate sales by product category.
 
 •	Compare regional performance.
@@ -454,9 +455,11 @@ Transforming data helps in extracting useful insights.
 Separating dependent and independent variables for focused analysis.
 
 •	Sales Revenue as Dependent Variable:
+
 o	Analyzed using trend analysis and correlation tests.
 
 •	Independent Variables:
+
 o	Regions, product categories, and order dates were analyzed for impact on revenue trends.
 
 

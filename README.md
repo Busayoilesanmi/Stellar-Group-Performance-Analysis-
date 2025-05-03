@@ -414,6 +414,8 @@ Unexpected Outcomes.
 
 ### References:
 
+•	Data sources: E-commerce Online Sales from Kaggle.com.
+
 •	Internal company sales records
 
 •	Excel functions: Pivot Tables

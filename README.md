@@ -319,6 +319,9 @@ By leveraging these insights, companies can increase revenue, reduce operational
 
 ![Dashboard1](https://github.com/user-attachments/assets/2062c594-f3bd-4832-828d-2b70fa71ace6)
 
+### Link to the excel Document
+
+Excel File: https://docs.google.com/spreadsheets/d/1kaOiGDxFKQGRdCYy_v0D-BkVWhlfcijG/edit?usp=drive_link&ouid=104478848167416604596&rtpof=true&sd=true
 
 •	Sales Trend Chart: This line chart illustrates seasonal variations in sales. A clear revenue spike is visible during holiday periods, confirming the impact of seasonal demand on sales volume.
 
